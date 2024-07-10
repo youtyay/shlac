@@ -14,7 +14,7 @@ Idk, for fun.
 
 <hr>
 <h1>Benefits</h1>
-<b>Surprisingly, there's some benefits:</b>
+<b>Surprisingly, there are some benefits:</b>
 
 ✅ Easy to understand
 
