@@ -16,6 +16,7 @@ Idk, for fun.
 <h1>Benefits</h1>
 <b>Surprisingly, there are some benefits:</b>
 
+```
 ✅ Easy to understand
 
 ✅ True Lo-Fi
@@ -23,3 +24,4 @@ Idk, for fun.
 ✅ Open to be community edited
 
 ✅ It's funny
+```
