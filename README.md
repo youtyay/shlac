@@ -1,4 +1,4 @@
-<p align="center"><a href="#"><img src="shlac.png" alt="Image"></a></p>
+<p align="center"><a href="#"><img src="shlac_logo.png" alt="Image"></a></p>
 <p align="left"><a href="#"><img src="https://img.shields.io/badge/project_quality-shittiest_shit-brown?style=plastic" alt="Image"></a></p>
 <b>SHLAC <i>(from the Russian slang word "шлак", something crap)</i></b> - Super Horrible Lossy Audio Codec. A joky project to show how any audiofile works and attempt in creating of an easy-to-understand audioformat.
 
