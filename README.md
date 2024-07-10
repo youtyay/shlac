@@ -17,6 +17,9 @@ Idk, for fun.
 <b>Surprisingly, there are some benefits:</b>
 
 ✅ Easy to understand
+
 ✅ True Lo-Fi
+
 ✅ Open to be community edited
+
 ✅ It's funny
