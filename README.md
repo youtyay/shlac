@@ -20,7 +20,7 @@ Idk, for fun.
 ```
 ✅ Easy to understand
 
-✅ True Lo-Fi
+✅ Lo-Fi
 
 ✅ Open to be community edited
 
