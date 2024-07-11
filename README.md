@@ -31,4 +31,9 @@ Idk, for fun.
 <h1>Suggest me your commits</h1>
 I wouldn't call myself a developer, because it's more a kind of hobby, so things I'm making are some kind of shit.
 Nevertheless, this codec and it's tools are open for your commits and suggestions.
-Edit the codec itself, suggest new tools or try to integrate it somewhere - everything will make this project better. Have fun!
+Edit the codec itself, suggest new tools or try to integrate it somewhere - everything will make this project better. 
+<b>Following things are very welcome, because I can hardly implement them on my own, so I'd appreciate your submissions:</b>
+* foobar2000 decoder plugin
+* Converter and player tools implemented in other programming languages
+* SHLAC's technical imrovements
+<b>Have fun!</b>
