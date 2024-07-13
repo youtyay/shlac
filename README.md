@@ -8,6 +8,8 @@
 <h1>What is it?</h1>
 Basically, it's just an audio codec that has essential minimum to play the audio - binary data, containing headers with properties of the audiodata and audiodata itself.
 
+It can be compared to Bubble Sort Algorithm - inefficient, but good for learning.
+
 <hr>
 <h1>Why?</h1>
 Idk, for fun.

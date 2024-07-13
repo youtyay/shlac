@@ -1,12 +1,11 @@
-# This fast-made shitty code allows you to play ".shlac" via your main audio output.
-# Input your file name down here.
+# This fast-made shitty code allows you to convert ".shlac" into ".wav".
+# Input your file names down here.
 # Used libraries aren't made by me and the rights to the libraries belong to their respectful owners.
 import numpy as np
-import sounddevice as sd
-import time
+import soundfile as sf
 
 
-def shlac_decode(input_file):
+def shlac_to_wav(input_file):
     with open(input_file, 'rb') as f:
         sr = np.frombuffer(f.read(4), dtype='int32')[0]
         num_channels = np.frombuffer(f.read(1), dtype='int8')[0]
@@ -27,11 +26,11 @@ def shlac_decode(input_file):
 
 
 file = 'audiofile.shlac'
-sr_out, num_channels_out, audio_data_out = shlac_decode(file)
+sr_out, num_channels_out, audio_data_out = shlac_to_wav(file)
+
+output = 'output.wav'
+sf.write(output, audio_data_out, sr_out)
 
 print(f"Sample rate: {sr_out}")
 print(f"Channels amount: {num_channels_out}")
-print("Playing audio file")
-
-sd.play(audio_data_out, sr_out)
-time.sleep(audio_data_out.shape[0] / sr_out)
+print(f"Converted into {output}")
