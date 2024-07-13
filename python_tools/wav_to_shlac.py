@@ -19,7 +19,6 @@ def audio_to_shlac(file_path, output_file):
 
         # Writing audiodata into .shlac file
         f.write(np.array(y, dtype='float32').tobytes())
-        print(np.array(y, dtype='float32'))
         return sr, num_channels
 
 
